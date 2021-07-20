@@ -1,20 +1,3 @@
---[[----------------------------------------------------------------------------
-
-  Application Name:
-  Logging
-  
-  Summary:
-  Introduction to the logging API with logging to console and to file with
-  different log levels.
-                                                                                             
-  Description:
-  Introduction to the logging API with logging to console and to file with
-  different log levels
-
-  How to run:
-  To demo the script, just let it run and look at the console what log statements
-  are hidden by setting the level. Also take a look at the logging output file.
-------------------------------------------------------------------------------]]
 
 --Start of Global Scope---------------------------------------------------------
 
